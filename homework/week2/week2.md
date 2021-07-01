@@ -1,4 +1,4 @@
-###第二周作业
+### 第二周作业
 
 - [146.LRU缓存机制](https://github.com/hearthstones/algorithm/blob/main/homework/week2/LruCache.java)
 - [811.子域名访问计数](https://github.com/hearthstones/algorithm/blob/main/homework/week2/SubdomainVisitCount.java)
