@@ -11,40 +11,40 @@ public class Subsets {
     public static void main(String[] args) {
         Solution solution = new Subsets().new Solution();
     }
-
+    
 //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
-    // 全局
     private List<List<Integer>> ans;
-    private List<Integer> temp;
+    private List<Integer> per;
+    private int[] nums;
 
     /**
-     * 特征：子集
-     * 主体：选 or 不选，树形结构 => 递归
-     * 细节：递归模版
+     * DFS遍历整个状态空间
+     * 分支 - 选 or 不选。
+     * 状态空间 - 每个节点两个分支，该节点到子节点的变化过程。
      */
     public List<List<Integer>> subsets(int[] nums) {
-        ans = new ArrayList<>();
-        temp = new ArrayList<>();
-        recur(0, nums);
+        this.ans = new ArrayList<>();
+        this.per = new ArrayList<>();
+        this.nums = nums;
+        dfs(0);
         return ans;
     }
 
-    // 递归方法
-    private void recur(int level, int[] nums) {
+    // dfs
+    private void dfs(int depth) {
         // 终止条件
-        if (level == nums.length) {
-            // make a copy，并非原temp
-            ans.add(new ArrayList<>(temp));
+        if (depth == nums.length) {
+            // make a copy
+            ans.add(new ArrayList<>(per));
             return;
         }
-        // 本层逻辑 - 不选。走下层递归
-        recur(level + 1, nums);
-        // 本层逻辑 - 选，temp.add(nums[level])。走下层递归
-        temp.add(nums[level]);
-        recur(level + 1, nums);
-        // 回溯，还原现场（技巧：add/remove成对出现）
-        temp.remove(temp.size() - 1);
+        // 状态空间
+        dfs(depth + 1);
+        per.add(nums[depth]);
+        dfs(depth + 1);
+        // 回溯
+        per.remove(per.size() - 1);
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)

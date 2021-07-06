@@ -11,7 +11,7 @@ public class Permutations {
     public static void main(String[] args) {
         Solution solution = new Permutations().new Solution();
     }
-
+    
 //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
     // 全局
@@ -22,40 +22,32 @@ class Solution {
 
     /**
      * 特征：全排列
-     * 主体：递归。本层逻辑 - 每次从未选过的数中选择一个放到当前位置
-     * 细节：位置、回溯
+     * 方案：每次从"未选过的数"中选一个，放到当前位置
+     * 实现：DFS
      */
     public List<List<Integer>> permute(int[] nums) {
         this.ans = new ArrayList<>();
         this.per = new ArrayList<>();
         this.nums = nums;
         this.used = new boolean[nums.length];
-        recur(0);
+        dfs(0);
         return ans;
     }
 
-    /**
-     * 递归方法
-     * @param position 当前位置，范围[0, ..., nums.length - 1]
-     */
-    private void recur(int position) {
+    // dfs
+    private void dfs(int depth) {
         // 终止条件
-        if (position == nums.length) {
-            ans.add(new ArrayList<>(per));  //make a copy
+        if (depth == nums.length) {
+            ans.add(new ArrayList<>(per));
             return;
         }
-        // 依次，从"未被选过的数"中选择一个，放在当前位置
+        // 状态空间
         for (int i = 0; i < nums.length; i++) {
-            // 被选过
-            if (used[i]) {
-                continue;
-            }
-            // 选择nums[i]
+            if (used[i]) continue;
             used[i] = true;
             per.add(nums[i]);
-            // 下层递归
-            recur(position + 1);
-            // 回溯，还原现场
+            dfs(depth + 1);
+            // 回溯
             per.remove(per.size() - 1);
             used[i] = false;
         }
