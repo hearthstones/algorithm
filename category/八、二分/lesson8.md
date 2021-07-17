@@ -9,5 +9,6 @@
 - [154.寻找旋转排序数组中的最小值II （Hard）](https://github.com/hearthstones/algorithm/blob/main/category/%E5%85%AB%E3%80%81%E4%BA%8C%E5%88%86/FindMinimumInRotatedSortedArrayIi.java)
 
 #### 三分查找
+- [162.寻找峰值（Medium）](https://github.com/hearthstones/algorithm/blob/main/category/%E5%85%AB%E3%80%81%E4%BA%8C%E5%88%86/FindPeakElement.java)
 
 #### 二分答案
