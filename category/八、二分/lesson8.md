@@ -12,3 +12,6 @@
 - [162.寻找峰值（Medium）](https://github.com/hearthstones/algorithm/blob/main/category/%E5%85%AB%E3%80%81%E4%BA%8C%E5%88%86/FindPeakElement.java)
 
 #### 二分答案
+- [374.猜数字大小（Easy）](https://github.com/hearthstones/algorithm/blob/main/category/%E5%85%AB%E3%80%81%E4%BA%8C%E5%88%86/GuessNumberHigherOrLower.java)
+- [1482.制作m束花所需的最少天数（Medium）](https://github.com/hearthstones/algorithm/blob/main/category/%E5%85%AB%E3%80%81%E4%BA%8C%E5%88%86/MinimumNumberOfDaysToMakeMBouquets.java)
+- [410.分割数组的最大值（Hard）](https://github.com/hearthstones/algorithm/blob/main/category/%E5%85%AB%E3%80%81%E4%BA%8C%E5%88%86/SplitArrayLargestSum.java)
