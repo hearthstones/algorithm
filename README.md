@@ -12,6 +12,9 @@
 - [week3](https://github.com/hearthstones/algorithm/blob/main/homework/week3/week3.md)
 - [week4](https://github.com/hearthstones/algorithm/blob/main/homework/week4/week4.md)
 - [week5](https://github.com/hearthstones/algorithm/blob/main/homework/week5/week5.md)
+- week6
+- [week7](https://github.com/hearthstones/algorithm/blob/main/homework/week7/week7.md)
+
 
 ## 分类
 - 数组、链表、栈、队列
@@ -25,3 +28,4 @@
 - [排序](https://github.com/hearthstones/algorithm/blob/main/category/%E4%B9%9D%E3%80%81%E6%8E%92%E5%BA%8F/lesson9.md)
 - 贪心
 - 动态规划
+- 字典树、并查集
