@@ -29,3 +29,5 @@
 - 贪心
 - 动态规划
 - 字典树、并查集
+- 图论算法
+- [字符串](https://github.com/hearthstones/algorithm/blob/main/category/16.%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%A4%84%E7%90%86/lesson16.md)
