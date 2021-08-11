@@ -14,6 +14,7 @@
 - [week5](https://github.com/hearthstones/algorithm/blob/main/homework/week5/week5.md)
 - week6
 - [week7](https://github.com/hearthstones/algorithm/blob/main/homework/week7/week7.md)
+- [week8](https://github.com/hearthstones/algorithm/blob/main/homework/week8/week8.md)
 
 
 ## 分类
