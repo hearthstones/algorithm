@@ -14,3 +14,5 @@
 - [151.翻转字符串里的单词（Medium）](https://github.com/hearthstones/algorithm/blob/main/category/16.%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%A4%84%E7%90%86/ReverseWordsInAString.java)
 - [917.仅仅反转字母（Easy）](https://github.com/hearthstones/algorithm/blob/main/category/16.%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%A4%84%E7%90%86/ReverseOnlyLetters.java)
 
+#### 三、回文
+- [125.验证回文串（Easy）](https://github.com/hearthstones/algorithm/blob/main/category/16.%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%A4%84%E7%90%86/ValidPalindrome.java)
