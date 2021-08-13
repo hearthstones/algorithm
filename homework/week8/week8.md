@@ -16,3 +16,10 @@
 
 #### 三、回文
 - [125.验证回文串（Easy）](https://github.com/hearthstones/algorithm/blob/main/homework/week8/ValidPalindrome.java)
+
+#### 四、同构 / 异位
+> 常用哈希表、数组处理。就计数而言，使用数组比哈希表更简洁。
+- [205.同构字符串（Easy）](https://github.com/hearthstones/algorithm/blob/main/homework/week8/IsomorphicStrings.java)
+- [242.有效的字母异位词（Easy）](https://github.com/hearthstones/algorithm/blob/main/homework/week8/ValidAnagram.java)
+- [49.字母异位词分组（Medium）](https://github.com/hearthstones/algorithm/blob/main/homework/week8/GroupAnagrams.java)
+- [438.找到字符串中所有字母异位词（Medium）](https://github.com/hearthstones/algorithm/blob/main/homework/week8/FindAllAnagramsInAString.java)
