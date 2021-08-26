@@ -24,3 +24,4 @@
 - [231.2的幂（Easy）](https://github.com/hearthstones/algorithm/tree/main/category/20.%E4%BD%8D%E8%BF%90%E7%AE%97/PowerOfTwo.java)
 - [190.颠倒二进制位（Easy）](https://github.com/hearthstones/algorithm/tree/main/category/20.%E4%BD%8D%E8%BF%90%E7%AE%97/ReverseBits.java)
 - [338.比特位计数（Easy）](https://github.com/hearthstones/algorithm/tree/main/category/20.%E4%BD%8D%E8%BF%90%E7%AE%97/CountingBits.java)
+- [50.Pow(x, n) （Medium）- 快速幂](https://github.com/hearthstones/algorithm/tree/main/category/20.%E4%BD%8D%E8%BF%90%E7%AE%97/PowxN.java)
