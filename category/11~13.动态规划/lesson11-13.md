@@ -3,8 +3,13 @@
 #### 一、基础问题
 - [70.爬楼梯（Easy）](https://github.com/hearthstones/algorithm/tree/main/category/11~13.%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/ClimbingStairs.java)
 - [322.零钱兑换（Medium）](https://github.com/hearthstones/algorithm/tree/main/category/11~13.%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/CoinChange.java)
-- [63.不同路径II（Medium）](https://github.com/hearthstones/algorithm/tree/main/category/11~13.%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/UniquePathsIi.java)
 - [1143.最长公共子序列（Medium）](https://github.com/hearthstones/algorithm/tree/main/category/11~13.%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/MaximumSubarray.java)
+
+
+#### 二、路径问题
+- [62.不同路径（Medium）](https://github.com/hearthstones/algorithm/tree/main/category/11~13.%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/UniquePaths.java)
+- [63.不同路径II（Medium）](https://github.com/hearthstones/algorithm/tree/main/category/11~13.%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/UniquePathsIi.java)
+- [120.三角形最小路径和（Medium）](https://github.com/hearthstones/algorithm/tree/main/category/11~13.%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/Triangle.java)
 
 
 #### 二、股票买卖系列问题
