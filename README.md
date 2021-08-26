@@ -17,6 +17,7 @@
 - [week7](https://github.com/hearthstones/algorithm/blob/main/homework/week7/week7.md)
 - [week8](https://github.com/hearthstones/algorithm/blob/main/homework/week8/week8.md)
 - [week9](https://github.com/hearthstones/algorithm/blob/main/homework/week9/week9.md)
+- [week10](https://github.com/hearthstones/algorithm/blob/main/homework/week10/week10.md)
 
 
 ## 分类
@@ -34,3 +35,4 @@
 - 字典树、并查集
 - 图论算法
 - [字符串](https://github.com/hearthstones/algorithm/blob/main/category/16.%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%A4%84%E7%90%86/lesson16.md)
+- [位运算](https://github.com/hearthstones/algorithm/blob/main/category/20.%E4%BD%8D%E8%BF%90%E7%AE%97/lesson20.md)

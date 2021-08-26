@@ -1,6 +1,6 @@
 ### 位运算
 
-位运算实战要点:  
+#### 一、位运算实战要点
 > 
 > 1.除以2：x / 2 => x >> 1  
 > 
@@ -19,3 +19,8 @@
 > - 得到最低位的1：x & -x
 > - 清零最低位的1：x = x & (x - 1)
 
+#### 二、题目列表
+- [191.位1的个数（Easy）](https://github.com/hearthstones/algorithm/tree/main/category/20.%E4%BD%8D%E8%BF%90%E7%AE%97/NumberOf1Bits.java)
+- [231.2的幂（Easy）](https://github.com/hearthstones/algorithm/tree/main/category/20.%E4%BD%8D%E8%BF%90%E7%AE%97/PowerOfTwo.java)
+- [190.颠倒二进制位（Easy）](https://github.com/hearthstones/algorithm/tree/main/category/20.%E4%BD%8D%E8%BF%90%E7%AE%97/ReverseBits.java)
+- [338.比特位计数（Easy）](https://github.com/hearthstones/algorithm/tree/main/category/20.%E4%BD%8D%E8%BF%90%E7%AE%97/CountingBits.java)
