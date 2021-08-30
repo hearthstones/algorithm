@@ -38,3 +38,11 @@
 - [714.买卖股票的最佳时机含手续费（Medium）](https://github.com/hearthstones/algorithm/tree/main/category/11~13.%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/BestTimeToBuyAndSellStockWithTransactionFee.java)
 - [309.最佳买卖股票时机含冷冻期（Medium）](https://github.com/hearthstones/algorithm/tree/main/category/11~13.%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/BestTimeToBuyAndSellStockWithCooldown.java)
 
+
+#### 六、树形DP
+> 树形DP与线性DP没有本质的区别，其实只是套在DFS中的DP。
+> - 子问题：一棵子树
+> - 状态：以x为根的子树
+> - 决策：x的子结点
+
+- [337.打家劫舍III（Medium）](https://github.com/hearthstones/algorithm/tree/main/category/11~13.%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/HouseRobberIii.java)
