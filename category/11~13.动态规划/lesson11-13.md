@@ -46,3 +46,12 @@
 > - 决策：x的子结点
 
 - [337.打家劫舍III（Medium）](https://github.com/hearthstones/algorithm/tree/main/category/11~13.%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/HouseRobberIii.java)
+
+
+#### 七、区间DP
+> 区间动态规划的子问题是基于一个区间的。
+> - 区间长度作为DP的“阶段”
+> - 区间端点作为DP的“状态”
+> - 在计算区间长度为len的子问题时，要先算好所有长度<len的子问题
+
+- [312.戳气球（Hard）](https://github.com/hearthstones/algorithm/tree/main/category/11~13.%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/BurstBalloons.java)
