@@ -30,7 +30,7 @@
 - [二叉堆、二叉搜索树](https://github.com/hearthstones/algorithm/blob/main/category/%E4%B8%83%E3%80%81%E4%BA%8C%E5%8F%89%E5%A0%86%E4%B8%8E%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91/lesson7.md)
 - [二分](https://github.com/hearthstones/algorithm/blob/main/category/%E5%85%AB%E3%80%81%E4%BA%8C%E5%88%86/lesson8.md)
 - [排序](https://github.com/hearthstones/algorithm/blob/main/category/%E4%B9%9D%E3%80%81%E6%8E%92%E5%BA%8F/lesson9.md)
-- 贪心
+- [贪心](https://github.com/hearthstones/algorithm/blob/main/category/10.%E8%B4%AA%E5%BF%83/lesson10.md)
 - [动态规划](https://github.com/hearthstones/algorithm/blob/main/category/11~13.%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/lesson11-13.md)
 - 字典树、并查集
 - 图论算法

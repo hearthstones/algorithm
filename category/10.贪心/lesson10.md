@@ -17,3 +17,7 @@
 > - 动规：有序不重复地遍历整个状态空间
 > - 贪心：在状态空间中按局部最优策略找一条路径
 
+- [860.柠檬水找零（Easy）](https://github.com/hearthstones/algorithm/tree/main/category/10.%E8%B4%AA%E5%BF%83/LemonadeChange.java)
+- [455.分发饼干（Easy）](https://github.com/hearthstones/algorithm/tree/main/category/10.%E8%B4%AA%E5%BF%83/AssignCookies.java)
+- [122.买卖股票的最佳时机II（Medium）](https://github.com/hearthstones/algorithm/tree/main/category/10.%E8%B4%AA%E5%BF%83/BestTimeToBuyAndSellStockIi.java)
+- [45.跳跃游戏II（Medium）](https://github.com/hearthstones/algorithm/tree/main/category/10.%E8%B4%AA%E5%BF%83/JumpGameIi.java)
