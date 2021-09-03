@@ -22,7 +22,7 @@
 
 ## 分类
 - 数组、链表、栈、队列
-- 前缀和、差分、双指针扫描
+- [前缀和、差分、双指针扫描](https://github.com/hearthstones/algorithm/blob/main/category/2.%E5%89%8D%E7%BC%80%E5%92%8C%E3%80%81%E5%B7%AE%E5%88%86%E3%80%81%E5%8F%8C%E6%8C%87%E9%92%88%E6%89%AB%E6%8F%8F/lesson2.md)
 - 哈希表、集合、映射
 - 递归、分治
 - [树与图](https://github.com/hearthstones/algorithm/blob/main/category/%E4%BA%94%E3%80%81%E6%A0%91%E4%B8%8E%E5%9B%BE/lesson5.md)
