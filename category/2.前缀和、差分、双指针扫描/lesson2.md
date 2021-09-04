@@ -3,6 +3,12 @@
 - [1248.统计「优美子数组」（Medium）](https://github.com/hearthstones/algorithm/tree/main/category/2.%E5%89%8D%E7%BC%80%E5%92%8C%E3%80%81%E5%B7%AE%E5%88%86%E3%80%81%E5%8F%8C%E6%8C%87%E9%92%88%E6%89%AB%E6%8F%8F/CountNumberOfNiceSubarrays.java)
 - [304.二维区域和检索 - 矩阵不可变（Medium）](https://github.com/hearthstones/algorithm/tree/main/category/2.%E5%89%8D%E7%BC%80%E5%92%8C%E3%80%81%E5%B7%AE%E5%88%86%E3%80%81%E5%8F%8C%E6%8C%87%E9%92%88%E6%89%AB%E6%8F%8F/RangeSumQuery2dImmutable.java)
 #### 1.2 差分
+> 定义：原数组A，差分数组B，A第一位补０。则　B[1] = A[1], B[i] = A[i] - A[i-1]　(2 <= i <= n).
+> 
+> 性质：
+> - 原数组A [l, r] 各加d => 差分数组 B[l] + d, B[r + 1] - d
+> - 差分数组B的前缀和数组就是原数组A
+
 - [1109.航班预订统计（Medium）](https://github.com/hearthstones/algorithm/tree/main/category/2.%E5%89%8D%E7%BC%80%E5%92%8C%E3%80%81%E5%B7%AE%E5%88%86%E3%80%81%E5%8F%8C%E6%8C%87%E9%92%88%E6%89%AB%E6%8F%8F/CorporateFlightBookings.java)
 
 
