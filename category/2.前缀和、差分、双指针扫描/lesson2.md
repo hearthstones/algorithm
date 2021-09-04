@@ -1,7 +1,9 @@
 ### 一、前缀和、差分
+#### 1.1 前缀和
 - [1248.统计「优美子数组」（Medium）](https://github.com/hearthstones/algorithm/tree/main/category/2.%E5%89%8D%E7%BC%80%E5%92%8C%E3%80%81%E5%B7%AE%E5%88%86%E3%80%81%E5%8F%8C%E6%8C%87%E9%92%88%E6%89%AB%E6%8F%8F/CountNumberOfNiceSubarrays.java)
 - [304.二维区域和检索 - 矩阵不可变（Medium）](https://github.com/hearthstones/algorithm/tree/main/category/2.%E5%89%8D%E7%BC%80%E5%92%8C%E3%80%81%E5%B7%AE%E5%88%86%E3%80%81%E5%8F%8C%E6%8C%87%E9%92%88%E6%89%AB%E6%8F%8F/RangeSumQuery2dImmutable.java)
-
+#### 1.2 差分
+- [1109.航班预订统计（Medium）](https://github.com/hearthstones/algorithm/tree/main/category/2.%E5%89%8D%E7%BC%80%E5%92%8C%E3%80%81%E5%B7%AE%E5%88%86%E3%80%81%E5%8F%8C%E6%8C%87%E9%92%88%E6%89%AB%E6%8F%8F/CorporateFlightBookings.java)
 
 
 ### 二、双指针
