@@ -1,7 +1,15 @@
 ### 一、前缀和、差分
+
 #### 1.1 前缀和
+> 定义：一维数组A，前缀和数组S。S[0] = 0, S[i] = A[0, ..., i] = S[i - 1] + A[i]
+> 
+> 性质：子段和 A[l, ..., r] = S[r] - S[l - 1] 
+> 
+> 补充：二维前缀和，看图写公式，如304题。
+
 - [1248.统计「优美子数组」（Medium）](https://github.com/hearthstones/algorithm/tree/main/category/2.%E5%89%8D%E7%BC%80%E5%92%8C%E3%80%81%E5%B7%AE%E5%88%86%E3%80%81%E5%8F%8C%E6%8C%87%E9%92%88%E6%89%AB%E6%8F%8F/CountNumberOfNiceSubarrays.java)
 - [304.二维区域和检索 - 矩阵不可变（Medium）](https://github.com/hearthstones/algorithm/tree/main/category/2.%E5%89%8D%E7%BC%80%E5%92%8C%E3%80%81%E5%B7%AE%E5%88%86%E3%80%81%E5%8F%8C%E6%8C%87%E9%92%88%E6%89%AB%E6%8F%8F/RangeSumQuery2dImmutable.java)
+
 #### 1.2 差分
 > 定义：原数组A，差分数组B，A第一位补０。则　B[1] = A[1], B[i] = A[i] - A[i-1]　(2 <= i <= n).
 > 
